@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    border: 0;
+    background-color: rgb(163, 223, 243);
+}
+text{
+    align-items: center;
+    margin: auto;
+}
+h1{
+    font-size: 80px;
+    font-weight: 300;
+    color: #285bf2;
+}
+p{
+    font-size: 65px;
+    font-weight: 150;
+    color: #285bf2;
+}
